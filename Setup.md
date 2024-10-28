@@ -5,8 +5,9 @@ This document describes all the required steps that participants need to do to p
 1. Create Unity account
 2. Download and install Unity
 3. Download and install tools for XR development
+4. Prepare your project for XR development
 
-After performing all the 3 steps from the list above, your development environment should be ready. To confirm it really is ready, you can check that in the top menu in Unity there is a Meta sub-menu. Additionally, check that you can run the project by pressing the play button. If there are no errors shown in the console, you are good to go.
+After performing all the 4 steps from the list above, your development environment should be ready. To confirm it really is ready, you can check that in the top menu in Unity there is a Meta sub-menu. Additionally, check that you can run the project by pressing the play button. If there are no errors shown in the console, you are good to go.
 
 ### Create Unity account
 
@@ -31,3 +32,9 @@ After you have created a project, you can import XR development packages. There 
 1. [Using Unity asset store](https://developers.meta.com/horizon/documentation/unity/unity-package-manager#download-and-import-packages-from-the-unity-asset-store). This is the approach I recommend.  
 **NOTE**: When using the link from the instructions, you will see a page with various packages. The easiest way is to just choose [Meta XR All-in-One SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657).
 2. [Using Meta's NPM registry](https://developers.meta.com/horizon/documentation/unity/unity-package-manager#download-and-import-packages-from-the-npm-registry). I never tried it this way, but it should be a feasible way to do it.
+
+### Prepare your project for XR development
+
+To prepare for XR development:
+1. You must Oculus XR plugin. You can do that by following [these steps](https://developers.meta.com/horizon/documentation/unity/unity-project-setup#install-the-oculus-xr-plugin).
+2. When you are done with that, you can configure the project with the project setup tool. Here are [the instructions](https://developers.meta.com/horizon/documentation/unity/unity-project-setup#configure-project-with-the-project-setup-tool) 

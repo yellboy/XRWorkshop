@@ -20,7 +20,7 @@ To create Unity account:
 
 ### Download and install Unity
 
-For this workshop, it is ideal that you have Unity 2022.3.2f1. To download and install Unity, follow the steps explained [here](https://developers.meta.com/horizon/documentation/unity/unity-before-you-begin/#unity). When applicable, choose the 2022.3.2 version.
+For this workshop, it is ideal that you have Unity 2022.3.2f1. To download and install Unity, follow the steps explained [here](https://developers.meta.com/horizon/documentation/unity/unity-before-you-begin/#unity). When applicable, choose the 2022.3.2 version. **NOTE**: UnityHub doesn't directly offer version 2022.3.2f1 to download. So, instead of locating this version in UnityHub in step 4, you can do just open this [link](https://unity.com/releases/editor/whats-new/2022.3.2#installs) and press the Install button. It will automatically open UnityHub and start the installation of the target version.
 
 It is also important to have a C# editor. If you don't have one already, during Unity installation you will be offered to install Visual Studio Community, which you can do. If you want, you can also use other editor of your choosing.
 
